@@ -29,8 +29,12 @@ As you progress through the game, the snake's length increases with each fruit c
 
 3. **Controls:**
    - Utilize arrow keys for snake direction control.
+  
+## Requirements
+Ensure you have a C++ compiler and the SFML library installed to compile and run the game successfully.
 
-
+## CREATORS
+This game is the university project for M.Ibrahim ALAM and M.Nufil Anwer
 
 
 
